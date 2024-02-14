@@ -1,4 +1,6 @@
-👋 Hello everyone! I'm Marina and I'm starting my data scientist's journey with a background degree in Mathematics and a Master's in Big Data Analysis in Economics and Business from the University of the Balearic Islands (UIB)
+👋 Hello everyone! I'm Marina and I am on the never-ending journey of the data scientist career.
+
+📚 I've studied the degree of Mathematics and a master degree in Big Data Analysis in Economics and Business from the University of the Balearic Islands (UIB).
 
 💡 I'm enthusiastic about transforming raw data into valuable and interesting information with the mindset of facilitating and empowering decision making.
 
