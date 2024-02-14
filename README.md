@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hello everyone! I'm Marina and I'm starting my data scientist's journey with a background degree in Mathematics and a Master's in Big Data Analysis in Economics and Business from the University of the Balearic Islands (UIB)
+
+💡 I'm enthusiastic about transforming raw data into valuable and interesting information with the mindset of facilitating and empowering decision making.
+
+🌐Happy to connect with anyone with the same interests and share knowledge and feedback about our projects! 
 
 <!--
 **MarinaMoreno/MarinaMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
